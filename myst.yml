@@ -2,6 +2,7 @@
 version: 1
 project:
   id: 0781241b-8d48-46cf-a08f-d8195edecdae
+  type: book
   # title: Beyond Bayesian Networks
   # description:
   # keywords: []
