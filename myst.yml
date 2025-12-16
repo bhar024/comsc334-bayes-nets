@@ -1,6 +1,8 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  jupyter: 
+    hide_notebook_title: true
   id: 0781241b-8d48-46cf-a08f-d8195edecdae
   type: book
   # title: Beyond Bayesian Networks
@@ -12,7 +14,7 @@ project:
     - file: intro.md
       title: Introduction
     - file: chapter1.ipynb
-      title: "Chapter 1: Observation vs Intervention"
+      title: "Chapter 1: From correlation to causation"
     - file: chapter2.ipynb
       title: "Chapter 2: Independent Mechanisms"
 
@@ -20,3 +22,4 @@ project:
 site:
   template: book-theme
   title: COMSC334 Final Project
+  home: index.md
