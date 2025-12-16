@@ -1,6 +1,6 @@
 ### Introduction
 
-Hi, my name is Bhargavi and this my final project for COMSC334: Artificial Intelligence! 
+Hi, my name is Bhargavi and this is my final project for COMSC334: Artificial Intelligence! 
 
 **Project Goal**: Build on the Bayesian networks we studied in class and use them to understand causality and probabilistic graphical models.
 
