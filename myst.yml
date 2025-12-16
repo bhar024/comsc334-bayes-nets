@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0781241b-8d48-46cf-a08f-d8195edecdae
+  # title: Beyond Bayesian Networks
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  toc:
+    - file: intro.md
+      title: Introduction
+    - file: chapter1.ipynb
+      title: "Chapter 1: Observation vs Intervention"
+    - file: chapter2.ipynb
+      title: "Chapter 2: Independent Mechanisms"
+
+
+site:
+  template: book-theme
+  title: COMSC334 Final Project
